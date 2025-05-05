@@ -19,7 +19,6 @@ To create a Python program for printing `1 to n` even numbers using a `for` loop
 ---
 
 ### 🧾 Program
-
 ```python
 #Reg.NO: 212223020009
 #Name:Govarshini.P
@@ -30,7 +29,8 @@ for number in range(1,Even+1):
     if(number % 2 == 0):
         print(number)
 
-### OUTPUT
+```python
+
 
 ![image](https://github.com/user-attachments/assets/e32788a5-e7ac-49df-84b6-e6970e605fba)
 
