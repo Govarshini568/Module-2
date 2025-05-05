@@ -31,7 +31,6 @@ for number in range(1,Even+1):
         print(number)
 
 ### OUTPUT
-![m2](https://github.com/user-attachments/assets/97f4f484-6933-45be-872d-78b5ef9c6399)
 
 
 ### RESULT
