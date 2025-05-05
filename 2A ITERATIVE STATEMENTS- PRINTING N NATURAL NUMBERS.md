@@ -1,4 +1,4 @@
-![m2](https://github.com/user-attachments/assets/9f1597b6-c197-4b15-a250-dad2dcbef00a)# Exp. No: 2a  
+# Exp. No: 2a  
 ## ITERATIVE STATEMENTS – PRINTING N EVEN NUMBERS
 
 ###  Aim
@@ -31,8 +31,7 @@ for number in range(1,Even+1):
         print(number)
 
 ### OUTPUT
-
-![m2](https://github.com/user-attachments/assets/274d3573-023a-4620-8efa-d330485b4663)
+![image](https://github.com/user-attachments/assets/8effd625-a8f5-4334-b50c-4d69db515fc9)
 
 ### RESULT
 The  Python program for printing `1 to n` even numbers using a `for` loop is executed.
