@@ -31,7 +31,8 @@ for number in range(1,Even+1):
         print(number)
 
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/8effd625-a8f5-4334-b50c-4d69db515fc9)
+![m2](https://github.com/user-attachments/assets/97f4f484-6933-45be-872d-78b5ef9c6399)
+
 
 ### RESULT
 The  Python program for printing `1 to n` even numbers using a `for` loop is executed.
